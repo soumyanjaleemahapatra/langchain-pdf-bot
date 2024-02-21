@@ -1,0 +1,6 @@
+langchain
+PyPDF2
+streamlit
+qdrant-client
+sentence-transformers
+llama-cpp-python
